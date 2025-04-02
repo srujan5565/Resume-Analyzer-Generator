@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venvapp/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files
+.DS_Store
