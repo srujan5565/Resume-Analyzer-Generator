@@ -33,3 +33,16 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/srujan5565/Resume-Analyzer-Generator.git
    cd Resume-Analyzer-Generator
+## Setup and Installation
+
+2. Create a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use venv\Scripts\activate
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the Streamlit Application
+   ```bash
+   streamlit run app.py
+5. Open the application in your browser (default: http://localhost:8501).
