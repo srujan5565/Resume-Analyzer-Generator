@@ -1,0 +1,13 @@
+streamlit==1.32.2
+pyresparser==1.0.6
+spacy==3.7.2
+nltk==3.8.1
+pdfminer.six==20221105
+reportlab==4.1.0
+pandas==2.2.1
+numpy==1.26.4
+tqdm==4.66.2
+python-dateutil==2.9.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1
+pyresparser-models==0.0.3
