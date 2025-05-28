@@ -63,7 +63,7 @@ def pdf_reader(file):
     return text
 
 
-# show uploaded file path to view pdf_display
+# show uploaded file path to view PDF_display
 def show_pdf(file_path):
     with open(file_path, "rb") as f:
         base64_pdf = base64.b64encode(f.read()).decode('utf-8')
